@@ -1,0 +1,6 @@
+[submodule "Examples/ex022/Projeto_Android"]
+	path = Examples/ex022/Projeto_Android
+	url = https://github.com/Vinicius667/Projeto_Android
+[submodule "Projeto_Android"]
+	path = Projeto_Android
+	url = https://github.com/Vinicius667/Projeto_Android
